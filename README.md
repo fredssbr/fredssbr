@@ -4,7 +4,7 @@
 
 ## About
 
-Fullstack developer, tech lead, with experience in the Java world. Currently studying architechture and cloud-related technologies.
+Fullstack developer, tech lead, with experience in the Java world. Currently studying architecture and cloud-related technologies.
 
 <br>
 
